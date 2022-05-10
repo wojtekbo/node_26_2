@@ -1,0 +1,22 @@
+[
+  {"gender": "F", "age": 48, "name": "Dorota", "lastName": "Polak", "email": "dorota.polak@gmail.com"},
+  {"gender": "M", "age": 40, "name": "Mariusz", "lastName": "Tokarczuk", "email": "mariusz.tokarczuk@gmail.com"},
+  {"gender": "F", "age": 59, "name": "Wiktoria", "lastName": "Mucha", "email": "wiktoria.mucha@gmail.com"},
+  {"gender": "M", "age": 27, "name": "Andrzej", "lastName": "Adamczyk", "email": "andrzej.adamczyk@gmail.com"},
+  {"gender": "F", "age": 25, "name": "Anna", "lastName": "Kot", "email": "anna.kot@gmail.com"},
+  {"gender": "M", "age": 42, "name": "Jan", "lastName": "Nowak", "email": "jan.nowak@gmail.com"},
+  {"gender": "M", "age": 43, "name": "Adam", "lastName": "Rudzik", "email": "adam.rudzik@gmail.com"},
+  {"gender": "F", "age": 78, "name": "Gabriella", "lastName": "Nowik", "email": "gabriella.nowik@gmail.com"},
+  {"gender": "F", "age": 48, "name": "Gabriella", "lastName": "Mucha", "email": "gabriella.mucha@gmail.com"},
+  {"gender": "M", "age": 40, "name": "Andrzej", "lastName": "Tokczyk", "email": "andrzej.tokczyk@gmail.com"},
+  {"gender": "M", "age": 24, "name": "Olaf", "lastName": "Nowak", "email": "olaf.nowak@gmail.com"},
+  {"gender": "M", "age": 55, "name": "Tomek", "lastName": "Kot", "email": "tomek.kot@gmail.com"},
+  {"gender": "F", "age": 25, "name": "Dorota", "lastName": "Polak", "email": "dorota.polak@gmail.com"},
+  {"gender": "F", "age": 46, "name": "Anna", "lastName": "Tokczyk", "email": "anna.tokczyk@gmail.com"},
+  {"gender": "F", "age": 73, "name": "Fiona", "lastName": "Mucha", "email": "fiona.mucha@gmail.com"},
+  {"gender": "M", "age": 18, "name": "Wiktor", "lastName": "Adamczyk", "email": "wiktor.adamczyk@gmail.com"},
+  {"gender": "F", "age": 37, "name": "Ela", "lastName": "Kot", "email": "ela.kot@gmail.com"},
+  {"gender": "M", "age": 34, "name": "Olaf", "lastName": "Borowczyk", "email": "olaf.borowczyk@gmail.com"},
+  {"gender": "F", "age": 57, "name": "Gabriella", "lastName": "Kot", "email": "gabriella.kot@gmail.com"},
+  {"gender": "M", "age": 50, "name": "Andrzej", "lastName": "Borowczyk", "email": "andrzej.borowczyk@gmail.com"}
+]
